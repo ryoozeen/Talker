@@ -10,11 +10,11 @@ Qt/C++ 기반의 1:1 메신저 애플리케이션입니다. 친구 추가, 실�
 ---
 
 ## 기술 스택
-- OS: Windows 10/11, Ubuntu 22.04+
+- OS: Ubuntu
 - Language/Lib: C++17, Qt 6 (Core/Widgets/Network/Sql)
 - Build: CMake, Ninja/MSBuild
 - DB: MySQL 8.0, MySQL Workbench
-- IDE: Visual Studio 2022, Qt Creator
+- IDE: Qt Creator
 
 ---
 
@@ -68,22 +68,6 @@ SOURCE "/absolute/path/to/newchat.sql";
 - CHAT_PORT=5555
 
 참고: 새 콘솔/IDE에서 반영됩니다.
-
----
-
-## 빌드/실행 (Windows · Visual Studio 2022)
-### Server
-1) VS2022 → File → Open → CMake… → Server/CMakeLists.txt
-2) CMake 설정 시 Qt 경로가 필요하면:
-   - CMake command arguments: -DCMAKE_PREFIX_PATH=C:\\Qt\\6.x.x\\msvc2022_64
-3) Build(F7) → Run(F5)
-   - 출력: ChatServer listening on 0.0.0.0 5555
-   - 필요 시 인자: --host 0.0.0.0 --port 5555
-
-### Client
-1) VS2022 → File → Open → CMake… → Client/CMakeLists.txt
-2) 동일하게 -DCMAKE_PREFIX_PATH 지정
-3) Build(F7) → Run(F5)
 
 ---
 

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_chat_server_FILE /home/jin/chatproject/Server/build/Desktop_Qt_6_9_1-Debug/chat_server)
+set(__QT_DEPLOY_TARGET_chat_server_TYPE EXECUTABLE)

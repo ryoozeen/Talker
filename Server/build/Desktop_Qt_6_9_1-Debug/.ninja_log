@@ -1,0 +1,19 @@
+# ninja log v6
+2	14	1755939821093082316	chat_server_autogen/timestamp	9d90b364e493657a
+2	14	1755939821093082316	chat_server_autogen/mocs_compilation.cpp	9d90b364e493657a
+213	1663	1755939063244591157	CMakeFiles/chat_server.dir/chatserver.cpp.o	7d0080b28436637a
+2	14	1755939821093082316	/home/jin/chatproject/Server/build/Desktop_Qt_6_9_1-Debug/chat_server_autogen/timestamp	9d90b364e493657a
+2	14	1755939821093082316	/home/jin/chatproject/Server/build/Desktop_Qt_6_9_1-Debug/chat_server_autogen/mocs_compilation.cpp	9d90b364e493657a
+213	1502	1755939063243591155	CMakeFiles/chat_server.dir/chat_server_autogen/mocs_compilation.cpp.o	671970a976c585d
+14	945	1755939821105082440	CMakeFiles/chat_server.dir/dbutil.cpp.o	639a409b4cd516f0
+213	1539	1755939063244591157	CMakeFiles/chat_server.dir/main.cpp.o	6545d56a04064a96
+946	1088	1755939822037092072	chat_server	d1fadc8daa1514b1
+4	214	1756006716496417518	chat_server_autogen/timestamp	9d90b364e493657a
+4	214	1756006716496417518	chat_server_autogen/mocs_compilation.cpp	9d90b364e493657a
+4	214	1756006716496417518	/home/jin/chatproject/Server/build/Desktop_Qt_6_9_1-Debug/chat_server_autogen/timestamp	9d90b364e493657a
+4	214	1756006716496417518	/home/jin/chatproject/Server/build/Desktop_Qt_6_9_1-Debug/chat_server_autogen/mocs_compilation.cpp	9d90b364e493657a
+215	1295	1756006716501417582	CMakeFiles/chat_server.dir/dbutil.cpp.o	639a409b4cd516f0
+214	1480	1756006716500417569	CMakeFiles/chat_server.dir/chat_server_autogen/mocs_compilation.cpp.o	671970a976c585d
+215	1527	1756006716501417582	CMakeFiles/chat_server.dir/main.cpp.o	6545d56a04064a96
+215	1632	1756006716501417582	CMakeFiles/chat_server.dir/chatserver.cpp.o	7d0080b28436637a
+1632	1758	1756006717918435704	chat_server	d1fadc8daa1514b1

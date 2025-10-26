@@ -1,0 +1,5 @@
+/home/jin/chatproject/Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/chat_server.dir
+/home/jin/chatproject/Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/edit_cache.dir
+/home/jin/chatproject/Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/jin/chatproject/Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/chat_server_autogen_timestamp_deps.dir
+/home/jin/chatproject/Server/build/Desktop_Qt_6_9_1-Debug/CMakeFiles/chat_server_autogen.dir
